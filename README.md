@@ -3,7 +3,6 @@
 
 ## Installation
 - [Checking out and building Chromium on Linux](https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md)
-- [ubuntu20.04修改编译chromium源码实战_demo123567的博客-CSDN博客_ubuntu编译chromium](https://blog.csdn.net/xielinrui123/article/details/108790541)
 - [连载《Chrome V8 原理讲解》第一篇：V8环境搭建 - 知乎](https://zhuanlan.zhihu.com/p/433867394)
 - [连载《Chrome V8 原理讲解》第一篇：V8环境搭建 - 安全客，安全资讯平台](https://www.anquanke.com/post/id/253048) [灰豆 - 知乎](https://www.zhihu.com/people/v8blink)
 - [chromium源码编译参考_打磨的石头的博客-CSDN博客_chromium 源码编译](https://blog.csdn.net/weixin_43923422/article/details/122681501)
