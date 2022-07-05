@@ -24,9 +24,7 @@
 ## Debug
 - [CLion 构建，调试 Chromium源码_ClouddRenn的博客-CSDN博客_chromium clion](https://cloudren.blog.csdn.net/article/details/114371735)
 - [Building & Debugging chromium on CLion for Linux. - pxps - 博客园](https://www.cnblogs.com/axts/p/12914474.html)
-- [[Chrome源码阅读]Chrome启动代码流程1-睿初科技软件开发技术博客](https://brionas.github.io/2013/05/16/chrome-code-launch-procedure/)
-- [[Chrome源码阅读]Chrome启动代码流程2-睿初科技软件开发技术博客](https://brionas.github.io/2013/05/16/chrome-code-launch-procedure-2/)
-- [[Chrome源码阅读]Chrome启动代码流程3-睿初科技软件开发技术博客](https://brionas.github.io/2013/05/16/chrome-code-launch-procedure-3/)
+- [Building & Debugging chromium on CLion for Linux. - 编程猎人](https://www.programminghunter.com/article/61651941053/)
 
 
 ## Inside Chormium
@@ -52,6 +50,9 @@
 - [chromium瀏覽器開發系列第二篇：如何編譯最新chromium原始碼 - 程式人生](https://www.796t.com/content/1550516779.html)
 - [chromium瀏覽器開發系列第三篇：chromium原始碼目錄結構 - 程式人生](https://www.796t.com/p/697462.html)
 - [ubuntu20.04修改编译chromium源码实战_demo123567的博客-CSDN博客_ubuntu编译chromium](https://chaojilaji.blog.csdn.net/article/details/108790541)
+- [C++ in Chromium 101 - Codelab](https://chromium.googlesource.com/chromium/src/+/HEAD/codelabs/cpp101/codelab.md)
+- [Chromium的启动流程_尹立的博客-CSDN博客](https://blog.csdn.net/yl02520/article/details/21301341)
+- [21天自制chromium -- cc篇 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1393116)
 
 
 ### Advanced
@@ -99,12 +100,35 @@
 - [[译] Chromium 下一代渲染架构（四）：VideoNG - 掘金](https://juejin.cn/post/7091240244925693966)
 - [[译] Chromium 下一代渲染架构（五）：LayoutNG - 掘金](https://juejin.cn/post/7094207568926474254)
 - [[译] Chromium 下一代渲染架构（六）：BlinkNG - 掘金](https://juejin.cn/post/7110877194968104974)
+- [How cc Works 中文译文 - 知乎](https://zhuanlan.zhihu.com/p/54601110)
+- [Chromium网页URL加载过程分析_罗升阳的博客-CSDN博客](https://blog.csdn.net/Luoshengyang/article/details/50527574)
+- [【Chromium中文文档】Chromium如何展示网页 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1009470)
+- [webkit内部的WebView, page, WebFrame, Frame, document, frameView, RenderView, RenderFrame, Widget的关系和构建_csshell2002的博客-CSDN博客](https://blog.csdn.net/csshell2002/article/details/48313387)
 
+### Advanced - Renderer
+- [Blink是如何工作的](https://blog.csdn.net/wy5761/article/details/118248265)
+- [Chromium_行云_的博客-CSDN博客](https://blog.csdn.net/wy5761/category_2917571.html)
+- [身為 Web 工程師，你應該要知道的瀏覽器架構演進史 feat.渲染引擎運作機制 | by 莫力全 Kyle Mo | Starbugs Weekly 星巴哥技術專欄 | Medium](https://medium.com/starbugs/%E8%BA%AB%E7%82%BA-web-%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E4%BD%A0%E6%87%89%E8%A9%B2%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E7%80%8F%E8%A6%BD%E5%99%A8%E6%9E%B6%E6%A7%8B%E6%BC%94%E9%80%B2%E5%8F%B2-feat-%E6%B8%B2%E6%9F%93%E5%BC%95%E6%93%8E%E9%81%8B%E4%BD%9C%E6%A9%9F%E5%88%B6-6d95d4d960ee)
+- [Webkit底层原理(1)--Webkit架构和模块 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1524587?from=article.detail.1393116)
+- [Webkit底层原理(2)--资源加载和网络栈 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1524590?from=article.detail.1524587)
+- [Webkit底层原理(3)--HTML解释器 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1524595?from=article.detail.1524590)
+- [【转载】「Chromium网页DOM Tree创建过程分析」 - 简书](https://www.jianshu.com/p/c902efb81e1c)
+- [面试题之从敲入 URL 到浏览器渲染完成 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1537979?from=article.detail.1524595)
+- [浏览器内核之 HTML 解释器和 DOM 模型 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1537967)
+- [【本周主题】第二期：浏览器组成及工作原理深度了解 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1378314)
+- [(2) What is "Spare Renderer" Process in Chrome Task Manager? : chrome](https://www.reddit.com/r/chrome/comments/il6znw/what_is_spare_renderer_process_in_chrome_task/)
 
-### Advanced - Blink
-- [Blink是如何工作的](https://blog.csdn.net/wy5761/article/details/118248265) [Chromium_行云_的博客-CSDN博客](https://blog.csdn.net/wy5761/category_2917571.html)
+### Advanced - Mojo
+- [Chromium Mojo & IPC | 柯幽](https://keyou.github.io/blog/2020/01/03/Chromium-Mojo&IPC/)
+- [chromium Mojo （译）_木希的博客-CSDN博客_chromium mojom](https://blog.csdn.net/mengxin00100/article/details/106325249)
+- [chromium Mojo介绍_木希的博客-CSDN博客](https://blog.csdn.net/mengxin00100/article/details/106315793)
 
+### Advanced - Extensions
+- [Chromium扩展（Extension）加载过程分析_罗升阳的博客-CSDN博客](https://blog.csdn.net/Luoshengyang/article/details/52349287)
 
-### Search
+### Reference
+- [Chromium docs](https://chromium.googlesource.com/chromium/src/+/HEAD/docs/README.md)
 - [chrome V8源码 - 搜索结果 - 知乎](https://www.zhihu.com/search?q=chrome%20V8%E6%BA%90%E7%A0%81&search_source=Entity&type=content)
 - [Chrome源码剖析系列 - Google 搜尋](https://www.google.com/search?q=Chrome%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%E7%B3%BB%E5%88%97&rlz=1C1RXQR_zh-TWTW980TW980)
+- [Chrome Version - Google Chrome](https://omahaproxy.appspot.com/)
+- [The new responsive: Web design in a component-driven world](https://web.dev/new-responsive/)
